@@ -1,7 +1,12 @@
 import colors from 'vuetify/es5/util/colors'
 
-export default {
-  // Global page headers: https://go.nuxtjs.dev/config-head
+import NuxtConfiguration from '@nuxt/config'
+
+const config: NuxtConfiguration = {
+  mode: 'universal',
+  /*
+  ** Headers of the page
+  */
   head: {
     titleTemplate: '%s - vueNuxtType',
     title: 'vueNuxtType',
@@ -76,3 +81,5 @@ export default {
   build: {
   }
 }
+
+export default config
