@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/alpinist/Desktop/git/logInFirebaseVue/vue_nuxt_type/vue_nuxt_type/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_a78ea32e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/alpinist/Desktop/git/logInFirebaseVue/vue_nuxt_type/vue_nuxt_type/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_55d2ba21"
+  }
+]

@@ -40,7 +40,7 @@
               issue board
             </a>.
           </p>
-          <p>Thank you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
+          <p>Thanks you for developing with Vuetify and I look forward to bringing more exciting features in the future.</p>
           <div class="text-xs-right">
             <em><small>&mdash; John Leider</small></em>
           </div>
@@ -58,7 +58,7 @@
             target="_blank"
             rel="noopener noreferrer"
           >
-            Nuxt GitHub
+            Nuxt GitHubssss
           </a>
         </v-card-text>
         <v-card-actions>
@@ -68,10 +68,20 @@
             nuxt
             to="/inspire"
           >
-            Continue
+            Continueous
           </v-btn>
         </v-card-actions>
       </v-card>
     </v-col>
   </v-row>
 </template>
+
+<script lang="ts">
+import { Component, Vue } from 'vue-property-decorator'
+
+@Component({
+    components: {
+    }
+})
+export default class HomePage extends Vue {}
+</script>
